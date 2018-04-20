@@ -1,5 +1,5 @@
 # Softpedia Linux RSS Scope
-Available at [OpenStore](https://open-store.io/app/softpedia)  
+Available at [OpenStore](https://open-store.io/app/softpedia) & [uAppExplorer](https://uappexplorer.com/app/softpedia)  
   
 ![](https://github.com/dofishswim/scopes/raw/master/softpedia/softpediascope/images/screenshot.png)  
   
