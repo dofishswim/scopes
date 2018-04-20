@@ -1,0 +1,15 @@
+{
+    "name": "euronews",
+    "description": "Euronews RSS Scope\nFollowing tutorial from Marius Nestor at http://news.softpedia.com/news/How-to-Create-a-RSS-Scope-for-Ubuntu-Phone-474352.shtml\nJust need some Scopes :)\nPeace",
+    "framework": "ubuntu-sdk-14.10",
+    "architecture": "armhf",
+    "title": "Euronews RSS Scope",
+    "hooks": {
+        "euronewsscope": {
+            "scope": "euronewsscope",
+            "apparmor": "scope-security.json"
+        }
+    },
+    "version": "1.0",
+    "maintainer": "tera <tera@dofishswim.com>"
+}
