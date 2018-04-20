@@ -1,0 +1,15 @@
+{
+    "name": "softpedia",
+    "description": "Softpedia Linux RSS Scope\nFollowing tutorial from Marius Nestor at http://news.softpedia.com/news/How-to-Create-a-RSS-Scope-for-Ubuntu-Phone-474352.shtml\nJust need some Scopes :)\nPeace",
+    "framework": "ubuntu-sdk-14.10",
+    "architecture": "armhf",
+    "title": "Softpedia Linux RSS Scope",
+    "hooks": {
+        "softpediascope": {
+            "scope": "softpediascope",
+            "apparmor": "scope-security.json"
+        }
+    },
+    "version": "1.0",
+    "maintainer": "tera <tera@dofishswim.com>"
+}
