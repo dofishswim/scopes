@@ -1,6 +1,26 @@
 [
     {
-        "label": "Euronews",
-        "id": "https://news.google.com/news/rss/search/section/q/site%3Aeuronews.com/site%3Aeuronews.com?hl=en&gl=US&ned=us"
+        "_title": "News",
+        "url": "http://www.euronews.com/_partners/ubuntu/news_%1.xml"
+    },
+    {
+        "_title": "Business",
+        "url": "http://www.euronews.com/_partners/ubuntu/business_%1.xml"
+    },
+    {
+        "_title": "Europe",
+        "url": "http://www.euronews.com/_partners/ubuntu/europe_%1.xml"
+    },
+    {
+        "_title": "Culture",
+        "url": "http://www.euronews.com/_partners/ubuntu/culture_%1.xml"
+    },
+    {
+        "_title": "Sci-tech",
+        "url": "http://www.euronews.com/_partners/ubuntu/scitech_%1.xml"
+    },
+    {
+        "_title": "No comment",
+        "url": "http://www.euronews.com/_partners/ubuntu/nocomment_%1.xml"
     }
 ]
