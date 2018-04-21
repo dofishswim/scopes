@@ -10,6 +10,6 @@
             "apparmor": "scope-security.json"
         }
     },
-    "version": "1.4",
+    "version": "1.6",
     "maintainer": "tera <tera@dofishswim.com>"
 }
