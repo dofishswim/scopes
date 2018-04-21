@@ -5,6 +5,6 @@
 2. [Euronews RSS Scope](https://github.com/dofishswim/scopes/tree/master/euronews)  
 3. [Vice News RSS Scope](https://github.com/dofishswim/scopes/tree/master/vicenews)  
 
-**Private**
+**Personal**
 1. [Cryptik RSS Scope](https://github.com/dofishswim/scopes/tree/master/cryptik)  
 
