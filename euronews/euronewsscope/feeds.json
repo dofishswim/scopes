@@ -1,26 +1,26 @@
 [
     {
-        "_title": "News",
-        "url": "http://www.euronews.com/_partners/ubuntu/news_%1.xml"
+        "label": "News",
+        "id": "http://www.euronews.com/_partners/ubuntu/news_en.xml"
     },
     {
-        "_title": "Business",
-        "url": "http://www.euronews.com/_partners/ubuntu/business_%1.xml"
+        "label": "Business",
+        "id": "http://www.euronews.com/_partners/ubuntu/business_en.xml"
     },
     {
-        "_title": "Europe",
-        "url": "http://www.euronews.com/_partners/ubuntu/europe_%1.xml"
+        "label": "Europe",
+        "id": "http://www.euronews.com/_partners/ubuntu/europe_en.xml"
     },
     {
-        "_title": "Culture",
-        "url": "http://www.euronews.com/_partners/ubuntu/culture_%1.xml"
+        "label": "Culture",
+        "id": "http://www.euronews.com/_partners/ubuntu/culture_en.xml"
     },
     {
-        "_title": "Sci-tech",
-        "url": "http://www.euronews.com/_partners/ubuntu/scitech_%1.xml"
+        "label": "Sci-tech",
+        "id": "http://www.euronews.com/_partners/ubuntu/scitech_en.xml"
     },
     {
-        "_title": "No comment",
-        "url": "http://www.euronews.com/_partners/ubuntu/nocomment_%1.xml"
+        "label": "No comment",
+        "id": "http://www.euronews.com/_partners/ubuntu/nocomment_en.xml"
     }
 ]
