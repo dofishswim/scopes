@@ -1,34 +1,34 @@
 [
     {
         "label": "News",
-        "id": "http://news.softpedia.com/newsRSS/Linux-7.xml"
+        "id": "https://news.softpedia.com/newsRSS/Linux-7.xml"
     },
     {
         "label": "Blogs",
-        "id": "http://news.softpedia.com/newsRSS/Linux-Opensource-Blog-226.xml"
+        "id": "https://news.softpedia.com/newsRSS/Linux-Opensource-Blog-226.xml"
     },
     {
         "label": "Linux Distributions",
-        "id": "http://news.softpedia.com/newsRSS/Linux-Distributions-168.xml"
+        "id": "https://news.softpedia.com/newsRSS/Linux-Distributions-168.xml"
     },
     {
         "label": "Latest Software Releases",
-        "id": "http://linux.softpedia.com/backend.xml"
+        "id": "https://linux.softpedia.com/backend.xml"
     },
     {
         "label": "Open Source Software",
-        "id": "http://news.softpedia.com/newsRSS/Open-Source-Software-167.xml"
+        "id": "https://news.softpedia.com/newsRSS/Open-Source-Software-167.xml"
     },
     {
         "label": "Ubuntu Tips and Tricks",
-        "id": "http://news.softpedia.com/newsRSS/Ubuntu-Tips-and-Tricks-98.xml"
+        "id": "https://news.softpedia.com/newsRSS/Ubuntu-Tips-and-Tricks-98.xml"
     },
     {
         "label": "Other Tips, Tricks and Tutorials",
-        "id": "http://news.softpedia.com/newsRSS/Other-Tips-Tricks-and-Tutorials-102.xml"
+        "id": "https://news.softpedia.com/newsRSS/Other-Tips-Tricks-and-Tutorials-102.xml"
     },
     {
         "label": "Reviews",
-        "id": "http://news.softpedia.com/newsRSS/Reviews-Linux-software-132.xml"
+        "id": "https://news.softpedia.com/newsRSS/Reviews-Linux-software-132.xml"
     }
 ]
