@@ -1,4 +1,4 @@
-# A collection of Ubuntu Scopes
+# A collection of Ubuntu Scopes (DEPRECATED - ABANDONNED)
 
 **Public**
 1. [Softpedia Linux RSS Scope](https://github.com/dofishswim/scopes/tree/master/softpedia)  
